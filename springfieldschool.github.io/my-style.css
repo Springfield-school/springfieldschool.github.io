@@ -1,0 +1,55 @@
+
+
+.sticky-header{
+    background-color: Blue;
+    text-align: center;
+    color:white;
+    font-size: 20px; 
+    justify-content: space-between;
+}
+.sticky-footer{
+    background-color: whitesmoke;
+    margin-top: 100%;
+    color: #fff;
+    display: inline;
+    text-align: center;
+}
+.about-us{
+    background-color:black ;
+    color: black;
+    text-align: center;
+    font-size: 30PX;
+    font-style: bold;
+    
+}
+.info{
+    display: grid;
+    grid-template-columns: 1fr,1fr;
+}
+
+.columns{
+    background-color:whitesmoke;
+}
+.columes-info{
+    color: gray;
+    margin-top: 0px;
+
+}
+
+.header-h1{
+    padding-top: 15px;
+    text-align: center;
+    font-size: 20px;
+    font-family: Times New Roman, Times, serif;
+    justify-content: space-between;
+
+}
+.intro{
+    background-color: whitesmoke;
+    color: black;
+    text-align: center;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin: 0;
+    margin-bottom: 10px;
+}
